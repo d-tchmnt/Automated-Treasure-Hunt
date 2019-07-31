@@ -5,3 +5,5 @@ We create a simulation of sea, in which different kind of ships move. Each kind 
 Map and Ship Classes
 
 Every point of the map is a class object with the following variables: Weather velocity (int value between 1 and 10), Has Tresure (Bool Value) and Is_dock( Bool Value)
+
+Instructions found on project2015.pdf
